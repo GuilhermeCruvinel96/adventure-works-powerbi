@@ -77,19 +77,19 @@ O relatório é composto por uma capa e quatro páginas de conteúdo, organizada
 
 **Página 1 — Visão Geral 2011–2013.** Estabelece o panorama do negócio e expõe a contradição entre crescimento de receita e colapso do ticket médio.
 
-<img src="assets/pagina-1.png" alt="Página 1 — Visão Geral 2011–2013" width="800">
+<img src="assets/Pagina-1.png" alt="Página 1 — Visão Geral 2011–2013" width="800">
 
 **Página 2 — Canal de Venda: O Fator Determinante.** Compara os dois canais, demonstra a discrepância de margem percentual e bruta entre Internet e Revendedores e identifica Bikes como categoria central do problema.
 
-<img src="assets/pagina-2.png" alt="Página 2 — Canal de Venda: O Fator Determinante" width="800">
+<img src="assets/Pagina-2.png" alt="Página 2 — Canal de Venda: O Fator Determinante" width="800">
 
 **Página 3 — Produto: O Produto Certo no Canal Errado.** Aprofunda nas subcategorias de Bikes e contrapõe o desempenho dos mesmos produtos nos dois canais. Evidencia ainda a diferença de ticket médio entre categorias e o crescimento assimétrico de volume entre Internet e Revendedores.
 
-<img src="assets/pagina-3.png" alt="Página 3 — Produto: O Produto Certo no Canal Errado" width="800">
+<img src="assets/Pagina-3.png" alt="Página 3 — Produto: O Produto Certo no Canal Errado" width="800">
 
 **Página 4 — Simulação: O Custo de Dois Produtos no Canal Errado.** Recalcula o resultado do canal Revendedores sem Road Bikes e Touring Bikes e mensura o impacto financeiro da decisão de comercializar produtos com margem negativa nesse canal.
 
-<img src="assets/pagina-4.png" alt="Página 4 — Simulação: O Custo de Dois Produtos no Canal Errado" width="800">
+<img src="assets/Pagina-4.png" alt="Página 4 — Simulação: O Custo de Dois Produtos no Canal Errado" width="800">
 
 ---
 
